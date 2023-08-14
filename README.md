@@ -38,3 +38,8 @@ Before you begin, ensure you have met the following requirements:
 
 4. Follow the on-screen instructions to perform various inventory management tasks.
 
+# Contributors
+- @bikashswain009
+- @AnusiktaMohanty20
+  
+
