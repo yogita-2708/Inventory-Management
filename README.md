@@ -6,7 +6,6 @@
 2. [Features](#features)
 3. [Prerequisites](#prerequisites)
 4. [Usage](#usage)
-5. [Contributors](#contributors)
 
 # Introduction
 
@@ -38,8 +37,5 @@ Before you begin, ensure you have met the following requirements:
 
 4. Follow the on-screen instructions to perform various inventory management tasks.
 
-# Contributors
-- @bikashswain009
-- @AnusiktaMohanty20
   
 
